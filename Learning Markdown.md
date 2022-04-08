@@ -22,3 +22,10 @@ How to add ordered list
 2. dcfewfr
 3. eqde
 ----
+# Welcome to my channel 
+Here, you are going to learn about the markdown language and the syntaxies used in Markdown.
+1. Before learning the markdown there are ceratin steps you need to follow.
+-------
+- A list of items
+- A list of syntaxies to learn
+- Revision
