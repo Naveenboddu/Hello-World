@@ -29,3 +29,6 @@ Here, you are going to learn about the markdown language and the syntaxies used 
 - A list of items
 - A list of syntaxies to learn
 - Revision
+# What is Markdown ?
+It is a simple markup language to write your documents
+  - ALl
