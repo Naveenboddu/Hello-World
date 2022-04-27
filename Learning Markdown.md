@@ -32,3 +32,33 @@ Here, you are going to learn about the markdown language and the syntaxies used 
 # What is Markdown ?
 It is a simple markup language to write your documents
   - ALl
+  - 
+_All is well_
+
+**To make the content Bold user asterisks on both sides**
+
+_You can use Italic_ and **Bold both in one line**
+
+For Links
+
+[ click here ] (www.github.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
