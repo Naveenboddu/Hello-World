@@ -15,8 +15,6 @@ Maintain Unorderered list
 
 - All
 - None
-
-
 How to add ordered list
 1. dcvd
 2. dcfewfr
