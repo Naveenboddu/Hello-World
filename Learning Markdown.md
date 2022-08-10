@@ -41,6 +41,6 @@ _You can use Italic_ and **Bold both in one line**
 
 For Links
 
-[ click here ] (www.github.com)
+(www.github.com)
 
 Save
